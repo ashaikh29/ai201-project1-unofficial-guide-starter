@@ -18,18 +18,18 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source | Type | URL or file path |
+|---|--------|------|-----------------|
+| 1 |Reddit- r/utdallas |post: How hard is CS 4375 - Introduction to Machine Learning? |https://www.reddit.com/r/utdallas/comments/m86sy2/how_hard_is_cs_4375_introduction_to_machine/ |
+| 2 |Reddit- r/utdallas |post: Having trouble in CS 4375 Machine Learning with Ruozzi | https://www.reddit.com/r/utdallas/comments/16c3hl8/having_trouble_in_cs_4375_machine_learning_with/ |
+| 3 |Reddit- r/utdallas |post: CS 4375 Introduction to Machine Learning Difficulty |https://www.reddit.com/r/utdallas/comments/ypvsmb/cs_4375_introduction_to_machine_learning/ |
+| 4 |Reddit- r/utdallas |post: Rishabh Iyer or Tahrima Rahman for CS 6375 (4375 UG)?? |https://www.reddit.com/r/utdallas/comments/1jshcq1/rishabh_iyer_or_tahrima_rahman_for_cs_6375_4375_ug/ |
+| 5 |UT Dallas Catalog |Official Course Description | https://catalog.utdallas.edu/2025/undergraduate/courses/cs4375|
+| 6 |UT Dallas |Course Syllabus: Karen Mazidi |https://dox.utdallas.edu/syl103830 |
+| 7 |UT Dallas |Course Syllabus: Feng Chen |https://dox.utdallas.edu/syl149237 |
+| 8 |UT Dallas |Course Syllabus: Nicholas Ruozzi |https://personal.utdallas.edu/~nrr150130/cs4375/2025fa/index.html |
+| 9 |UT Dallas |Course Syllabus: Anurag Nagar |https://dox.utdallas.edu/syl95444 |
+| 10 |Courseicle |Professor Review on Anurag Nagar |https://www.coursicle.com/utdallas/professors/Anurag+Nagar/ |
 
 ---
 

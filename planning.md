@@ -44,10 +44,13 @@ My system covers the category of knowledge regarding the course Intro to Machine
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+400 characters
 
 **Overlap:**
+50 characters
 
 **Reasoning:**
+My sources include both Reddit reviews and course syllabi for Intro to Machine Learning. Reddit reviews tend to be shorter and more subjective, while course syllabi tend to be longer and more objective. So, I think having a chunk size of 400 characters with a 50 character overlap would be a good balance for both sourcs. It would preserve longer text from the syllabi and shorter reviews from Reddit.
 
 ---
 
@@ -60,10 +63,13 @@ My system covers the category of knowledge regarding the course Intro to Machine
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+all-MiniLM-L6-v2 via sentence-transformers
 
 **Top-k:**
+5
 
 **Production tradeoff reflection:**
+If cost wasn't a constraint,  
 
 ---
 

@@ -14,6 +14,8 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+My system covers the category of knowledge regarding the course Intro to Machine Learning (CS 4375) at UT Dallas. This knowledge is valuable since it is a popular course taken by Computer Science, Data Science, Software Engineering majors, among others. It is also a difficult class for many, so having a system to help students determine which professor to take, how to study for the class is useful for their performance in the class.
+
 ---
 
 ## Document Sources
@@ -24,7 +26,7 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
+| 1 |Reddit |post |https://www.reddit.com/r/utdallas/comments/m86sy2/how_hard_is_cs_4375_introduction_to_machine/ |
 | 2 | | | |
 | 3 | | | |
 | 4 | | | |

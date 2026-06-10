@@ -26,8 +26,9 @@ My system covers the category of knowledge regarding the course Intro to Machine
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 |Reddit |post |https://www.reddit.com/r/utdallas/comments/m86sy2/how_hard_is_cs_4375_introduction_to_machine/ |
-| 2 | | | |
+| 1 |Reddit- r/utdallas |post: How hard is CS 4375 - Introduction to Machine Learning? |https://www.reddit.com/r/utdallas/comments/m86sy2/how_hard_is_cs_4375_introduction_to_machine/ |
+| 2 |Reddit- r/utdallas |post: Having trouble in CS 4375 Machine Learning with Ruozzi
+ |https://www.reddit.com/r/utdallas/comments/16c3hl8/having_trouble_in_cs_4375_machine_learning_with/ |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
